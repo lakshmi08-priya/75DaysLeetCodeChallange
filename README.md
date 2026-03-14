@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -17,5 +19,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
