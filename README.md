@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
