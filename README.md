@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0242-valid-anagram) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
