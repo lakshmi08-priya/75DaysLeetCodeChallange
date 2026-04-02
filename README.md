@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0739-daily-temperatures) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lakshmi08-priya/75DaysLeetcodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
